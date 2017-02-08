@@ -1,29 +1,22 @@
 ###################
-What is CodeIgniter
+What is the Robot
 ###################
 
-CodeIgniter is an Application Development Framework - a toolkit - for people
-who build web sites using PHP. Its goal is to enable you to develop projects
-much faster than you could if you were writing code from scratch, by providing
-a rich set of libraries for commonly needed tasks, as well as a simple
-interface and logical structure to access these libraries. CodeIgniter lets
-you creatively focus on your project by minimizing the amount of code needed
-for a given task.
+Umbrella Corporation is trying to improve its public image, after an "industrial accident" at its Raccoon City research & development facility. The corporation has embarked on a new project, building cute household robots. Efforts are coordinated at their new Panda Research Center.
+
+Umbrella Corp is outsourcing robot assembly to a number of plants worldwide. Each COMP4711 team will be building the webapp to support one of these.
 
 *******************
 Release Information
 *******************
 
-This repo contains in-development code for future releases. To download the
-latest stable release please visit the `CodeIgniter Downloads
-<https://codeigniter.com/download>`_ page.
+1.0.0
 
 **************************
 Changelog and New Features
 **************************
 
-You can find a list of all changes for each release in the `user
-guide change log <https://github.com/bcit-ci/CodeIgniter/blob/develop/user_guide_src/source/changelog.rst>`_.
+added changelog.md by LEI
 
 *******************
 Server Requirements
