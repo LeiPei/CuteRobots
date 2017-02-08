@@ -9,6 +9,6 @@ change log (newest last)
 
 * added this change log by Lei
 
-* 
+* added bots and parts in data directory
 
 * 
